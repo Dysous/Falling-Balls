@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1701898205 source:c:\users\ntmat\downloads\code\fall guys\main.cpp
+	<iostream>
+	<iomanip>
+	<ostream>
+	"SDL_Plotter.h"
+	"point.h"
+	"force.h"
+	"Ball.h"
+	"obs.h"
+
+1701843657 c:\users\ntmat\downloads\code\fall guys\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+	<queue>
+
+1701895045 source:c:\users\ntmat\downloads\code\fall guys\point.cpp
+	"point.h"
+	<cmath>
+
+1701898734 c:\users\ntmat\downloads\code\fall guys\point.h
+	<ostream>
+	<iostream>
+
+1701842089 source:c:\users\ntmat\downloads\code\fall guys\sdl_plotter.cpp
+
+1701898574 source:c:\users\ntmat\downloads\code\fall guys\obs.cpp
+	<stdio.h>
+	"obs.h"
+
+1701898537 c:\users\ntmat\downloads\code\fall guys\obs.h
+	"point.h"
+	"SDL_Plotter.h"
+	<cmath>
+
+1701897491 source:c:\users\ntmat\downloads\code\fall guys\ball.cpp
+	<stdio.h>
+	"Ball.h"
+	"obs.h"
+
+1701898094 c:\users\ntmat\downloads\code\fall guys\ball.h
+	"point.h"
+	"SDL_Plotter.h"
+	<cmath>
+	"force.h"
+	"obs.h"
+
+1701898337 c:\users\ntmat\downloads\code\fall guys\force.h
+	<iostream>
+	<ostream>
+
+1701895574 source:c:\users\ntmat\downloads\code\fall guys\force.cpp
+	"force.h"
+	<cmath>
+
